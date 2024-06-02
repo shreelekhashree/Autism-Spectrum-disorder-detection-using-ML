@@ -22,6 +22,7 @@ This repository contains a project dedicated to the detection of Autism Spectrum
   - Pandas
   - Matplotlib
   - Scikit-learn
+  - seaborn
 
 ## Prerequisites
 
