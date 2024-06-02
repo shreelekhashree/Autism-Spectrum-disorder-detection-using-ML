@@ -1,0 +1,11 @@
+Case_No,Feature_1,Feature_2,Gender,Ethnicity,Jaundice,Family_History_ASD,Who_Completed_Test,ASD
+1,25,70,M,Asian,Yes,No,Family Member,Yes
+2,30,65,F,Caucasian,No,Yes,Health Care Professional,No
+3,40,80,M,Hispanic,No,Yes,Family Member,Yes
+4,35,75,F,African American,Yes,Yes,Health Care Professional,Yes
+5,20,68,M,Asian,No,No,Family Member,No
+6,45,85,F,Caucasian,Yes,Yes,Health Care Professional,Yes
+7,28,72,M,Hispanic,Yes,No,Family Member,No
+8,33,77,F,African American,No,Yes,Health Care Professional,Yes
+9,22,67,M,Caucasian,No,Yes,Family Member,Yes
+10,38,82,F,Asian,Yes,No,Health Care Professional,No
